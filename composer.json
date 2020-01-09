@@ -1,0 +1,12 @@
+{
+    "name": "alexey/test",
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "authors": [
+        {
+            "name": "a.antropov",
+            "email": "a.antropov@bronevik.com"
+        }
+    ]
+}
